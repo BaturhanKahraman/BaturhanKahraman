@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Baturhan Kahraman</h1>
 <h3 align="center">A mid level Full-Stack .Net Developer.</h3>
 
-- 🌱 I’m currently learning **React**
-
 - 💬 Ask me about **Angular, Angular Material, .Net (Core), C#**
 
 <h3 align="left">Connect with me:</h3>
